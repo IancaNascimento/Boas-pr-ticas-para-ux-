@@ -34,22 +34,22 @@ Identificar e aplicar as melhores práticas para criação de interfaces mobile 
 
 ### Textos
 
-1. Material Design Guidelines (Google)
+1. Material Design Guidelines (Google)  
     https://m3.material.io/
-2. Apple Human Interface Guidelines
+3. Apple Human Interface Guidelines  
     https://developer.apple.com/design/human-interface-guidelines/
-3. Nielsen Norman Group – Mobile UX
+4. Nielsen Norman Group – Mobile UX  
     https://www.nngroup.com/topic/mobile-ux/
-4. Smashing Magazine – Responsive Design
+5. Smashing Magazine – Responsive Design  
     https://www.smashingmagazine.com/category/responsive-design/
-5. Interaction Design Foundation (IxDF)
+6. Interaction Design Foundation (IxDF)  
     https://www.interaction-design.org/
 
 ### Vídeos
 
- 1. Acessibilidade em design: a importância da aplicação desde o primeiro rascunho
+ 1. Acessibilidade em design: a importância da aplicação desde o primeiro rascunho  
      https://www.youtube.com/watch?v=mxIhSTP6ddE
- 2. Curso técnico em desenvolvimento de sistemas: Design de interface mobile
+ 2. Curso técnico em desenvolvimento de sistemas: Design de interface mobile  
     https://youtu.be/fi6Pb4bT8cg?si=hrA7HvkH1C5ke35X 
 
 
