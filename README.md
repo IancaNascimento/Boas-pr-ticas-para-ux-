@@ -60,7 +60,7 @@ Identificar e aplicar as melhores práticas para criação de interfaces mobile 
 “Quais são as melhores práticas para criar interfaces mobile responsivas em UX/UI?”
 
 #### Resultado:
-*Resposta mias generalizada, sem muitos detelhes:*
+*Resposta mias generalizada, sem muitos detelhes:*   
 Para criar interfaces mobile responsivas de excelência em UX/UI em 2026, é fundamental equilibrar a estética visual com a funcionalidade técnica e a ergonomia. As fontes destacam que o design deve ser centrado no usuário, priorizando a simplicidade, a consistência e a acessibilidade.
 
 ### Prompt 2 (refinado):
@@ -68,7 +68,7 @@ Para criar interfaces mobile responsivas de excelência em UX/UI em 2026, é fun
 “Liste práticas de design mobile responsivo considerando usabilidade, acessibilidade, performance e padrões de layout”
 
 #### Resultado:
-*Resposta mais estruturada, com categorias relevantes:*
+*Resposta mais estruturada, com categorias relevantes:*. 
 Para criar interfaces mobile responsivas de alta qualidade, é necessário integrar estratégias de layout flexível com uma experiência de uso intuitiva, acessível e de alto desempenho. De acordo com as fontes, as melhores práticas dividem-se nos seguintes pilares:
 ##### 1. Padrões de Layout e Estrutura
 **Abordagem Mobile-First:** Comece o design pelas telas menores para priorizar o conteúdo essencial, garantindo que os elementos fundamentais estejam presentes antes de expandir para dispositivos maiores.
@@ -76,16 +76,16 @@ Para criar interfaces mobile responsivas de alta qualidade, é necessário integ
 **Definição de Breakpoints:** Planeje como o layout se adapta em pontos específicos de interrupção (telemóveis pequenos, phablets e tablets) para manter a harmonia visual em diferentes resoluções.
 **Consistência com as Plataformas:** Siga as diretrizes do Apple Human Interface Guidelines (HIG) e do Material Design (Google) para manter padrões familiares que os usuários já esperam de cada sistema.
 ##### 2. Usabilidade e Interação
-**Alvos de Toque (Touch Targets):** Projete botões e links com tamanho suficiente para serem tocados com precisão, sendo o recomendado entre 7 a 10 mm reais (mínimo de 44x44px no iOS e 48x48px no Android).
-**Ergonomia e Thumb Zone:** Posicione as ações principais na "zona verde" (área de fácil alcance para o polegar), mantendo informações primárias no centro e evitando os cantos superiores de difícil acesso para funções frequentes.
-**Navegação Autoevidente:** Use padrões de navegação claros, como a Tab Bar (iOS) ou o Navigation Drawer (Android), e sempre indique a localização atual do usuário para que ele não se sinta perdido.
+**Alvos de Toque (Touch Targets):** Projete botões e links com tamanho suficiente para serem tocados com precisão, sendo o recomendado entre 7 a 10 mm reais (mínimo de 44x44px no iOS e 48x48px no Android).  
+**Ergonomia e Thumb Zone:** Posicione as ações principais na "zona verde" (área de fácil alcance para o polegar), mantendo informações primárias no centro e evitando os cantos superiores de difícil acesso para funções frequentes.  
+**Navegação Autoevidente:** Use padrões de navegação claros, como a Tab Bar (iOS) ou o Navigation Drawer (Android), e sempre indique a localização atual do usuário para que ele não se sinta perdido.  
 **Redução de Digitação:** Minimize a entrada de texto utilizando preenchimento automático, teclados contextuais (ex: teclado numérico para telefone) e autenticação biométrica sempre que possível.
 
 ##### 3. Acessibilidade
-**Legibilidade do Texto:**  Utilize fontes com tamanho mínimo de 11 pontos para leitura confortável a uma distância normal sem necessidade de zoom.
-**Contraste de Cores:** Siga as diretrizes do W3C, garantindo um contraste de pelo menos 4,5:1 para textos pequenos e 3:1 para textos grandes.
-**Feedback Visual e Narrativo:** Cada interação (clique ou gesto) deve gerar uma resposta clara, como mudança de cor ou animação suave, para confirmar que o sistema recebeu o comando.
-**Recursos Inclusivos:** Ofereça suporte para pesquisa por voz e comandos de áudio, auxiliando usuários com deficiências visuais ou baixa literacia digital.
+**Legibilidade do Texto:**  Utilize fontes com tamanho mínimo de 11 pontos para leitura confortável a uma distância normal sem necessidade de zoom.  
+**Contraste de Cores:** Siga as diretrizes do W3C, garantindo um contraste de pelo menos 4,5:1 para textos pequenos e 3:1 para textos grandes.  
+**Feedback Visual e Narrativo:** Cada interação (clique ou gesto) deve gerar uma resposta clara, como mudança de cor ou animação suave, para confirmar que o sistema recebeu o comando.  
+**Recursos Inclusivos:** Ofereça suporte para pesquisa por voz e comandos de áudio, auxiliando usuários com deficiências visuais ou baixa literacia digital.  
 ##### 4. Performance e Eficiência
 **Otimização de Recursos:** Comprima imagens (usando formatos como SVG ou WebP) e recursos de mídia para garantir que a interface carregue rapidamente, evitando a impaciência e desinstalação pelo usuário.
 **Design Minimalista (Elimine a Desordem):** Remova qualquer "perfumaria" ou elemento visual que não seja estritamente necessário para a tarefa atual, reduzindo a carga cognitiva e o consumo de bateria do dispositivo.
@@ -98,7 +98,7 @@ Para criar interfaces mobile responsivas de alta qualidade, é necessário integ
 “Como um UX designer deve estruturar uma interface mobile responsiva considerando grid, breakpoints, thumb zone e acessibilidade?”
 
 #### Resultado:
-*Resposta prática e aplicável ao projeto:*
+*Resposta prática e aplicável ao projeto:*  
 Para estruturar uma interface mobile responsiva de forma eficaz, um UX designer deve integrar estratégia visual, ergonomia e requisitos técnicos de acessibilidade para garantir uma experiência uniforme em diferentes dispositivos.
 
  ##### 1. Sistema de Grid e Flexibilidade
